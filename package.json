@@ -1,0 +1,49 @@
+{
+  "name": "scorebing-api",
+  "version": "1.0.0",
+  "description": "scoreBing api package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorratts13/scorebing-api.git"
+  },
+  "keywords": [
+    "score",
+    "bing",
+    "score",
+    "bing",
+    "scorebing-api",
+    "scoreBing-api",
+    "scoreBing",
+    "API",
+    "api-scoreBing",
+    "bingScore",
+    "bet365",
+    "bets",
+    "score",
+    "bets",
+    "scoreBing",
+    "Bets",
+    "bet365-score",
+    "pubicScore",
+    "score",
+    "futbol",
+    "football",
+    "Brasilian",
+    "Football",
+    "score",
+    "footbball"
+  ],
+  "author": "Victor Ratts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorratts13/scorebing-api/issues"
+  },
+  "homepage": "https://github.com/victorratts13/scorebing-api#readme",
+  "dependencies": {
+    "unirest": "^0.6.0"
+  }
+}
