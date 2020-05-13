@@ -2,7 +2,7 @@
 
 var unirest = require('unirest');
 
-let api = 'https://www.scorebing.com/ajax/score/data?';
+let api = 'https://lv.scorebing.com/ajax/score/data?';
 
 
 class scoreBingAPI {
